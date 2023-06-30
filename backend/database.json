@@ -1,0 +1,79 @@
+{
+    "userRank": [
+        {
+            "rank": 1,
+            "userId": 1,
+            "username": "user_1"
+        },
+        {
+            "rank": 2,
+            "userId": 2,
+            "username": "user_2"
+        },
+        {
+            "rank": 3,
+            "userId": 3,
+            "username": "user_3"
+        },
+        {
+            "rank": 4,
+            "userId": 4,
+            "username": "user_4"
+        },
+        {
+            "rank": 5,
+            "userId": 5,
+            "username": "user_5"
+        },
+        {
+            "rank": 6,
+            "userId": 6,
+            "username": "user_6"
+        },
+        {
+            "rank": 7,
+            "userId": 7,
+            "username": "user_7"
+        }
+    ],
+    "user-scores": [
+        {
+            "userId": 1,
+            "score": 100
+        },
+        {
+            "userId": 2,
+            "score": 200
+        },
+        {
+            "userId": 3,
+            "score": 300
+        },
+        {
+            "userId": 4,
+            "score": 400
+        },
+        {
+            "userId": 5,
+            "score": 500
+        },
+        {
+            "userId": 6,
+            "score": 600
+        },
+        {
+            "userId": 7,
+            "score": 700
+        }
+    ],
+    "users": [
+        {
+            "username": "user1",
+            "password": "1234"
+        },
+        {
+            "username": "user1",
+            "password": "1234"
+        }
+    ]
+}
